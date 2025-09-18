@@ -13,4 +13,6 @@ Why does this happen? How can I either: Manually control the tabBar color, or Ma
 
 This issue occurs when the "Reduce Transparency" accessibility setting is enabled & UITabBar.isTranslucent = true.
 
+![](https://developer.apple.com/forums/content/attachment/ed77817a-1d15-4038-80b2-e636d7ff275c)
+
 ![](https://images.macrumors.com/t/idTTPqvQHjh5F6HKGK8HsDllEfc=/800x0/article-new/2025/08/ios-26-reduce-transparency.jpg?lossy)
